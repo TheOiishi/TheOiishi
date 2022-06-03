@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheOiishi
 - 👀 I’m interested in Full Stack Development/ Java Enthusiast / C#
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Google
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on None
 - 📫 How to reach me thedeveloper136@gmail.com
 
 <!---
