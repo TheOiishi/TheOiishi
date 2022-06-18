@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TheOiishi
-- 👀 I’m interested in Full Stack Development/ Java Enthusiast / C#
+- 👋 Hi, I’m Oiishi
+- 👀 I’m interested in Full Stack Development/Java Enthusiast/C#
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on None
 - 📫 How to reach me thedeveloper136@gmail.com
